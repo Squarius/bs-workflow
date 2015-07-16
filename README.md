@@ -1,4 +1,4 @@
-# Boostrap-Workflow
+# Bootstrap-Workflow
 
 Bootstrap skeleton for new projects with Bootstrap, Jasny-Bootstrap, LESS and Atom-Editor
 
